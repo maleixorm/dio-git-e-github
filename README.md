@@ -12,12 +12,16 @@ Repositório para armazenar resumos sobre Git e Github do Curso de Versionamento
 | Aulas | Resumos |
 |-------|---------|
 | Salvando alterações no Repositório Local | [Aula 01](resumos/aula-01.md) |
-| Desfazendo alterações no Repositório Local | [Aula 02](resumos/aula-02.md)
+| Desfazendo alterações no Repositório Local | [Aula 02](resumos/aula-02.md) |
 
-## 👨‍💻 Blocos de Códigos
+## 👨‍💻 Exemplo de Bloco de Código
 
 ```
 git init
+git add .
+git commit -m "message"
+git remote add origin (url)
+git pull -u origin main
 ```
 
 ## 🔍 Referências
