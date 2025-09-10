@@ -11,7 +11,8 @@ Repositório para armazenar resumos sobre Git e Github do Curso de Versionamento
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando alterações no Repositório Local | [Resumos]() |
+| Salvando alterações no Repositório Local | [Aula 01](resumos/aula-01.md) |
+| Desfazendo alterações no Repositório Local | [Aula 02](resumos/aula-02.md)
 
 ## 👨‍💻 Blocos de Códigos
 
