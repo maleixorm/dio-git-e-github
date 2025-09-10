@@ -13,7 +13,7 @@ Repositório para armazenar resumos sobre Git e Github do Curso de Versionamento
 |-------|---------|
 | Gravando alterações no Repositório Local | [Resumos]() |
 
-## Blocos de Códigos
+## 👨‍💻 Blocos de Códigos
 
 ```
 git init
