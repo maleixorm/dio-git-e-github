@@ -9,5 +9,9 @@ git branch -m (branch-name)
 ```
 
 ```
+git push
+```
+
+```
 git pull -u origin (branch-name)
 ```
