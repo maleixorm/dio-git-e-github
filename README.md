@@ -14,6 +14,8 @@ Repositório para armazenar resumos sobre Git e Github do Curso de Versionamento
 | Salvando alterações no Repositório Local | [Aula 01](resumos/aula-01.md) |
 | Desfazendo alterações no Repositório Local | [Aula 02](resumos/aula-02.md) |
 | Enviando e Baixando alterações com o Repositório Remoto | [Aula 03](resumos/aula-03.md) |
+| Trabalhando com Branchs no repositório | [Aula 04](resumos/aula-04.md) |
+| Avançando com as Branchs - Dicas | [Aula 05](resumos/aula-05.md) |
 
 ## 👨‍💻 Exemplo de Bloco de Código
 
